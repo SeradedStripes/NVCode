@@ -14,6 +14,8 @@ Some examples of voice commands include:
 - "Run the code"
 - "Change line X to `new code`"
 
+NVCode works by using speech recognition to transcribe your voice commands into text, it then parses the text to determine your action. NVCode does not have a visual interface except for its realtime transcription menu and settings menu, so all feedback is given through audio cues and the transcription menu.
+
 ## Stack
 
 - Rust
