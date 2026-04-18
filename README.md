@@ -24,11 +24,21 @@ NVCode works by using speech recognition to transcribe your voice commands into 
 - Rust
 - Inline Assembly
 
+### Rust Crates
+
+- `cpal` for audio capture
+- `vosk` for speech recognition
+- `egui` for the transcription menu and settings menu
+
 ## Installation
 
-None yet
+To install NVCode, you can download the latest release from the [releases page](https://github.com/SeradedStripes/NVCode/releases) and follow the instructions for your operating system.
 
 ## Contributing
 
 Contributions are welcome!  
 Fork the repo and do a pr with your changes.
+
+## License
+
+NVCode is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
