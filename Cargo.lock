@@ -5,3 +5,7 @@ version = 4
 [[package]]
 name = "non-visual-code"
 version = "0.1.0"
+
+[[package]]
+name = "speech-recognition"
+version = "0.1.0"
